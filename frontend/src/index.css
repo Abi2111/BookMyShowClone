@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #fff;
+  --secondary-color: #000;
+  --GRAY0-COLOR: #f8f9fa;
+  --ORANGE2-COLOR: #ffd8a8;
+  --GRAY1-COLOR: #f1f3f5;
+  --YELLOW5-COLOR: #fcc419;
+  --GREY5-COLOR: #adb5bd;
+}
+
+body {
+  font-family: "Work Sans", sans-serif;
+}
